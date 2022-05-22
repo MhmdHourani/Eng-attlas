@@ -1,7 +1,7 @@
 {
-  "name": "Bethany",
+  "name": "somou",
   "version": "1.0.0",
-  "description": "SMAT for inspection",
+  "description": "somou",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass assets/sass/main.scss assets/css/style.css -w",
@@ -20,7 +20,7 @@
   "devDependencies": {
     "autoprefixer": "^7.1.4",
     "concat": "^1.0.3",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.14.1",
     "npm-run-all": "^4.1.1",
     "postcss-cli": "^4.1.1"
   },
